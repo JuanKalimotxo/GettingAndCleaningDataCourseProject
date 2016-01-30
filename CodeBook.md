@@ -7,6 +7,8 @@ This file describes the variables, data and transformations contained or carried
 •	The data was obtained from: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 
+
+
 run_analysis.R
 
 •	The X_train.txt, y_train.txt and subject_train.txt files from the “./data/train” folder were read and stored in trainData, trainLabel and trainSubject variables.
@@ -36,6 +38,8 @@ run_analysis.R
 •	Another dataset was created with the average of each measurement for each activity and each subject. With 30 unique subjects and 6 unique activities there are 180 combinations of subject and activity. After initialising the result data frame and using the nested for loops, a data frame was obtained with 180 rows and 68 columns.
 
 •	The data_with means.txt file was created from result.
+
+
 
 
 merged_data.txt
@@ -179,6 +183,8 @@ variables:
 •	fBodyBodyGyroJerkMagMean
 
 •	fBodyBodyGyroJerkMagStd
+
+
 
 
 data_with_means.txt
