@@ -45,142 +45,280 @@ merged_data.txt
 variables:
 
 •	subject
+
 •	activity
+
 •	tBodyAccMeanX
+
 •	tBodyAccMeanY
+
 •	tBodyAccMeanZ
+
 •	tBodyAccStdX
+
 •	tBodyAccStdY
+
 •	tBodyAccStdZ
+
 •	tGravityAccMeanX
+
 •	tGravityAccMeanY
+
 •	tGravityAccMeanZ
+
 •	tGravityAccStdX
+
 •	tGravityAccStdY
+
 •	tGravityAccStdZ
+
 •	tBodyAccJerkMeanX
+
 •	tBodyAccJerkMeanY
+
 •	tBodyAccJerkMeanZ
+
 •	tBodyAccJerkStdX
+
 •	tBodyAccJerkStdY
+
 •	tBodyAccJerkStdZ
+
 •	tBodyGyroMeanX
+
 •	tBodyGyroMeanY
+
 •	tBodyGyroMeanZ
+
 •	tBodyGyroStdX
+
 •	tBodyGyroStdY
+
 •	tBodyGyroStdZ
+
 •	tBodyGyroJerkMeanX
+
 •	tBodyGyroJerkMeanY
+
 •	tBodyGyroJerkMeanZ
+
 •	tBodyGyroJerkStdX
+
 •	tBodyGyroJerkStdY
+
 •	tBodyGyroJerkStdZ
+
 •	tBodyAccMagMean
+
 •	tBodyAccMagStd
+
 •	tGravityAccMagMean
+
 •	tGravityAccMagStd
+
 •	tBodyAccJerkMagMean
+
 •	tBodyAccJerkMagStd
+
 •	tBodyGyroMagMean
+
 •	tBodyGyroMagStd
+
 •	tBodyGyroJerkMagMean
+
 •	tBodyGyroJerkMagStd
+
 •	fBodyAccMeanX
+
 •	fBodyAccMeanY
+
 •	fBodyAccMeanZ
+
 •	fBodyAccStdX
+
 •	fBodyAccStdY
+
 •	fBodyAccStdZ
+
 •	fBodyAccJerkMeanX
+
 •	fBodyAccJerkMeanY
+
 •	fBodyAccJerkMeanZ
+
 •	fBodyAccJerkStdX
+
 •	fBodyAccJerkStdY
+
 •	fBodyAccJerkStdZ
+
 •	fBodyGyroMeanX
+
 •	fBodyGyroMeanY
+
 •	fBodyGyroMeanZ
+
 •	fBodyGyroStdX
+
 •	fBodyGyroStdY
+
 •	fBodyGyroStdZ
+
 •	fBodyAccMagMean
+
 •	fBodyAccMagStd
+
 •	fBodyBodyAccJerkMagMean
+
 •	fBodyBodyAccJerkMagStd
+
 •	fBodyBodyGyroMagMean
+
 •	fBodyBodyGyroMagStd
+
 •	fBodyBodyGyroJerkMagMean
+
 •	fBodyBodyGyroJerkMagStd
 
+
 data_with_means.txt
+
 •	contains 180 rows and 68 columns in text format
+
 variables:
+
 •	subject
+
 •	activity
+
 •	tBodyAccMeanX
+
 •	tBodyAccMeanY
+
 •	tBodyAccMeanZ
+
 •	tBodyAccStdX
+
 •	tBodyAccStdY
+
 •	tBodyAccStdZ
+
 •	tGravityAccMeanX
+
 •	tGravityAccMeanY
+
 •	tGravityAccMeanZ
+
 •	tGravityAccStdX
+
 •	tGravityAccStdY
+
 •	tGravityAccStdZ
+
 •	tBodyAccJerkMeanX
+
 •	tBodyAccJerkMeanY
+
 •	tBodyAccJerkMeanZ
+
 •	tBodyAccJerkStdX
+
 •	tBodyAccJerkStdY
+
 •	tBodyAccJerkStdZ
+
 •	tBodyGyroMeanX
+
 •	tBodyGyroMeanY
+
 •	tBodyGyroMeanZ
+
 •	tBodyGyroStdX
+
 •	tBodyGyroStdY
+
 •	tBodyGyroStdZ
+
 •	tBodyGyroJerkMeanX
+
 •	tBodyGyroJerkMeanY
+
 •	tBodyGyroJerkMeanZ
+
 •	tBodyGyroJerkStdX
+
 •	tBodyGyroJerkStdY
+
 •	tBodyGyroJerkStdZ
+
 •	tBodyAccMagMean
+
 •	tBodyAccMagStd
+
 •	tGravityAccMagMean
+
 •	tGravityAccMagStd
+
 •	tBodyAccJerkMagMean
+
 •	tBodyAccJerkMagStd
+
 •	tBodyGyroMagMean
+
 •	tBodyGyroMagStd
+
 •	tBodyGyroJerkMagMean
+
 •	tBodyGyroJerkMagStd
+
 •	fBodyAccMeanX
+
 •	fBodyAccMeanY
+
 •	fBodyAccMeanZ
+
 •	fBodyAccStdX
+
 •	fBodyAccStdY
+
 •	fBodyAccStdZ
+
 •	fBodyAccJerkMeanX
+
 •	fBodyAccJerkMeanY
+
 •	fBodyAccJerkMeanZ
+
 •	fBodyAccJerkStdX
+
 •	fBodyAccJerkStdY
+
 •	fBodyAccJerkStdZ
+
 •	fBodyGyroMeanX
+
 •	fBodyGyroMeanY
+
 •	fBodyGyroMeanZ
+
 •	fBodyGyroStdX
+
 •	fBodyGyroStdY
+
 •	fBodyGyroStdZ
+
 •	fBodyAccMagMean
+
 •	fBodyAccMagStd
+
 •	fBodyBodyAccJerkMagMean
+
 •	fBodyBodyAccJerkMagStd
+
 •	fBodyBodyGyroMagMean
+
 •	fBodyBodyGyroMagStd
+
 •	fBodyBodyGyroJerkMagMean
+
 •	fBodyBodyGyroJerkMagStd
